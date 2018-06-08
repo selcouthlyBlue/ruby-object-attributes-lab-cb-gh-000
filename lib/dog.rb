@@ -13,5 +13,5 @@ class Dog
 
   def breed
     return @breed
-  ed
+  end
 end
